@@ -69,7 +69,6 @@
     "yargs": "^4.7.1"
   },
   "dependencies": {
-    "jquery-param": "^1.0.1",
     "zalgo-promise": "^1.0.31"
   }
 }
